@@ -1,6 +1,6 @@
 /* 
 
-Name: bf_Leather.sl
+Name: mwLeather.sl
 Type: Surface
 Auth: Mateusz Wojt
 Date: 23.06.2013
@@ -8,7 +8,7 @@ Date: 23.06.2013
 
 */
 class 
-bfLeather(
+mwLeather(
 			float	Kfb = 1,
 					Ks = 2,
 					Ka = 0.5,

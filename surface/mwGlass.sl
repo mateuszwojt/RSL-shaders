@@ -1,5 +1,5 @@
 /* Shader description goes here */
-class bf_Glass
+class mwGlass
 (
 	uniform float Ks = 1;
 	uniform float Kr = 1;

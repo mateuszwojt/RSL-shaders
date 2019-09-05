@@ -2,7 +2,7 @@
 #define SHADING_MODELS_H 1
 /* 
 
-Name: bfShadingModels.h
+Name: shading_models.h
 Type: Header
 Auth: Mateusz Wojt
 Date: 14.07.2013
@@ -10,8 +10,8 @@ Date: 14.07.2013
 
 */
 
-#include "bf_helpers.h" // General usage helpers and functions
-#include "bf_extras.h" // Geometric attenuation for Cook-Torrance model
+#include "helpers.h" // General usage helpers and functions
+#include "extras.h" // Geometric attenuation for Cook-Torrance model
 
 /* Oren-Nayar diffuse model from Leonardo Covarrubias at blog.leocov.com */
 color OrenNayar (normal N; vector V; float roughness;) {

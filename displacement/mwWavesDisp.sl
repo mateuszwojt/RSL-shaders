@@ -1,6 +1,6 @@
 /* Shader description goes here */
 displacement
-bf_WavesDisp(float Km = 0.1,
+mwWavesDisp(float Km = 0.1,
 			freq = 1,
 			sfreq = 1,
             layers = 3,

@@ -5,9 +5,9 @@ Taken from 3delight Studio Pro 11 Ocean headers
 
 */
 
-#include "../include/bf_ocean.h"
+#include "../include/ocean.h"
 
-class bf_Ocean
+class mwOcean
 (
 
 	uniform float Kd = 1;

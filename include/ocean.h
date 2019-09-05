@@ -2,7 +2,7 @@
 #define OCEAN_H 1
 
 
-#include "bf_helpers.h"
+#include "helpers.h"
 
 #define NUM_WAVES 16
 #define SQRT_NUM_WAVES 4

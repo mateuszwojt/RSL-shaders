@@ -1,5 +1,5 @@
 /* Shader description goes here */
-#include "../include/bf_helpers.h"
+#include "../include/helpers.h"
 
 float sawtooth(float freq; float amp; float inverse;)
 {
@@ -20,7 +20,7 @@ float sawtooth(float freq; float amp; float inverse;)
 }
 
 class 
-bf_Leaf
+mwLeaf
 (
 	uniform float	leaf_width = 0.5;
 	uniform float	saw_freq = 10;

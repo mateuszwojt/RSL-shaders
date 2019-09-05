@@ -10,11 +10,11 @@ and CookTorrance specular term.
 
  */
 
-#include "../include/bf_shading_models.h"
-#include "../include/bf_helpers.h"
-#include "../include/bf_extras.h"
+#include "../include/shading_models.h"
+#include "../include/helpers.h"
+#include "../include/extras.h"
 
-class bf_Production
+class mwProduction
 (
 	// ST coordinates modification
 	uniform float st_uv = 0;

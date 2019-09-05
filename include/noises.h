@@ -2,14 +2,14 @@
 #define NOISES_H 1
 /*
 
-Name: bf_noises.h
+Name: noises.h
 Type: Header
 Auth: Mateusz Wojt
 Date: 07.09.2013
 
 */
 
-#include "bf_helpers.h"
+#include "helpers.h"
 
 #ifndef snoise
 /*

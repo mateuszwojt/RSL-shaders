@@ -1,7 +1,7 @@
 /* Shader description goes here */
-#include "../include/bf_helpers.h"
+#include "../include/helpers.h"
 class 
-bf_GerstnerWaveDisp
+mwGerstnerWaveDisp
 (
 	float	Km = 0.1,
 			octaves = 3,

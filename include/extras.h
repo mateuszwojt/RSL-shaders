@@ -2,7 +2,7 @@
 #define EXTRAS_H 1
 /* 
 
-Name: bfShadingModels_extras.h
+Name: extras.h
 Type: Header
 Auth: Mateusz Wojt
 Date: 08.07.2013
@@ -10,7 +10,7 @@ Date: 08.07.2013
 
 */
 
-#include "bf_helpers.h"
+#include "helpers.h"
 
 // Beckmann distribution
 float beckmann

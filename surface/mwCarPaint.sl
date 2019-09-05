@@ -1,11 +1,11 @@
 /* Shader description goes here */
 
-#include "../include/bf_shading_models.h"
-#include "../include/bf_noises.h"
-#include "../include/bf_helpers.h"
-#include "../include/bf_extras.h"
+#include "../include/shading_models.h"
+#include "../include/noises.h"
+#include "../include/helpers.h"
+#include "../include/extras.h"
 class 
-bf_CarPaint2
+mwCarPaint
 (
 	color			c1[4] = {color(0,0.243137,0.52549),
 								color(0,0.345098,0.741176),

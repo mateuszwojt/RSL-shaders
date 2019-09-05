@@ -2,7 +2,7 @@
 #define HELPERS_H 1
 /*
 
-Name: bf_helpers.h
+Name: helpers.h
 Type: Header
 Auth: Mateusz Wojt
 Date: 07.07.2013
